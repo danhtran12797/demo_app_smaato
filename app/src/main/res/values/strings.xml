@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Smaato Test</string>
+
+<!--    id testing  -->
+    <string name="publisher_id">1100042525</string>
+    <string name="adspace_id_nterstitial">130626426</string>
+    <string name="adspace_id_rewarded">130626428</string>
+    <string name="adspace_id_rewarded1">130635048</string>
+    <string name="adspace_id_banner">130626424</string>
+</resources>
